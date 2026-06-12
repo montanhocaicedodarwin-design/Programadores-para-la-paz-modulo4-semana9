@@ -1,0 +1,19 @@
+Sistema operativo: 
+Es el programa principal o conjunto de programas de un dispositivo que gestiona los recursos de hardware y permite la ejecución de las aplicaciones
+Actúa como un traductor o intermediario esencial entre tú (como usuario) y la máquina.
+
+Node.js:
+Es un entorno de ejecución de código abierto que permite ejecutar código JavaScript fuera de un navegador web
+Creado en 2009, utiliza el motor de JavaScript V8 de Google Chrome, lo que le permite procesar código de manera extremadamente rápida y eficiente.
+
+Aplicación server.js:
+es el punto de entrada principal para ejecutar una aplicación backend utilizando Node.js. Este script configura y levanta el servidor web 
+que escucha las peticiones de los usuarios o clientes (como un navegador web o una aplicación móvil) y define cómo responder a ellas.
+
+Puerto: 
+es un punto final o una "puerta" virtual por la cual un programa envía y recibe datos. Funciona como una extensión de la dirección IP:
+mientras que la IP identifica tu dispositivo en la red, el número de puerto identifica a qué aplicación específica va dirigido el mensaje
+
+Logs:
+registro cronológico de todos los eventos, acciones o errores que ocurren mientras un programa está ejecutándose. Funciona como una "bitácora de vuelo"
+que permite a los programadores entender exactamente qué está haciendo el software y diagnosticar fallos
